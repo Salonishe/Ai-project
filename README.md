@@ -20,4 +20,4 @@
 <h3>Additional Notes</h3>
 <li>For optimal performance, ensure that the camera is positioned in a well-lit area and that students' faces are clearly visible.</li>
 <li>You may need to adjust the face recognition model's parameters or training data to improve accuracy for specific use cases.</li>
-<li></li>Consider implementing additional features like attendance notifications, integration with a learning management system, or data analytics capabilities.</li>
+<li>Consider implementing additional features like attendance notifications, integration with a learning management system, or data analytics capabilities.</li>
